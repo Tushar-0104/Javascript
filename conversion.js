@@ -13,3 +13,14 @@ console.log(nums2);
 console.log(nums3);
 
 
+let name="tushar"
+
+let newname=Boolean(name)
+console.log(typeof(newname));
+console.log(newname);
+
+let bool = true
+let change=Number(bool)
+console.log(typeof(change))
+console.log(change);
+
